@@ -1,3 +1,3 @@
 # SmartWork
 
-git push origin main
+git push origin main.
