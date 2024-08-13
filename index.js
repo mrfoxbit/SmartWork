@@ -5,7 +5,7 @@ var app = express();
 app.set("view engine", "ejs");
 app.set("views", "./views");
 app.use(express.static("public"));
-app.listen(3000, () => console.log("Server started."));
+app.listen(9000, () => console.log("Server started."));
 
 // body-parser
 var bodyParser = require('body-parser');
